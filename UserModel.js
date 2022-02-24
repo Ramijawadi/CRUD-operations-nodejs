@@ -10,6 +10,6 @@ email: String
 
 },{
 timestamp:true 
-})
+}) 
 
 module.exports = mongoose.model('users' , UserSchema)
